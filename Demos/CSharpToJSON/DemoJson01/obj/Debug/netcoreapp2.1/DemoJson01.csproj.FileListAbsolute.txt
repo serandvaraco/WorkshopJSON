@@ -1,0 +1,11 @@
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\bin\Debug\netcoreapp2.1\DemoJson01.deps.json
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\bin\Debug\netcoreapp2.1\DemoJson01.runtimeconfig.json
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\bin\Debug\netcoreapp2.1\DemoJson01.runtimeconfig.dev.json
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\bin\Debug\netcoreapp2.1\DemoJson01.dll
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.csproj.CoreCompileInputs.cache
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.AssemblyInfoInputs.cache
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.AssemblyInfo.cs
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\bin\Debug\netcoreapp2.1\DemoJson01.pdb
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.csprojAssemblyReference.cache
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.dll
+C:\git\WorkshopJSON\Demos\CSharpToJSON\DemoJson01\obj\Debug\netcoreapp2.1\DemoJson01.pdb
