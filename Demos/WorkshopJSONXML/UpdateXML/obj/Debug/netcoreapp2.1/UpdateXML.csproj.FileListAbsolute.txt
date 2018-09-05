@@ -1,0 +1,11 @@
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\Catalog.xml
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\UpdateXML.deps.json
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\UpdateXML.runtimeconfig.json
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\UpdateXML.runtimeconfig.dev.json
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\UpdateXML.dll
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\bin\Debug\netcoreapp2.1\UpdateXML.pdb
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\obj\Debug\netcoreapp2.1\UpdateXML.csproj.CoreCompileInputs.cache
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\obj\Debug\netcoreapp2.1\UpdateXML.AssemblyInfoInputs.cache
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\obj\Debug\netcoreapp2.1\UpdateXML.AssemblyInfo.cs
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\obj\Debug\netcoreapp2.1\UpdateXML.dll
+C:\git\WorkshopJSON\Demos\WorkshopJSONXML\UpdateXML\obj\Debug\netcoreapp2.1\UpdateXML.pdb
