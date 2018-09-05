@@ -3,11 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopJSON", "WorkshopJSON\WorkshopJSON.csproj", "{064C1F43-B91D-41F7-803C-1328C1A6C45A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkshopJSON", "WorkshopJSON\WorkshopJSON.csproj", "{064C1F43-B91D-41F7-803C-1328C1A6C45A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopJsonDemo2", "WorkshopJsonDemo2\WorkshopJsonDemo2.csproj", "{572A6546-DA16-44FB-A7A5-2C358DE54FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkshopJsonDemo2", "WorkshopJsonDemo2\WorkshopJsonDemo2.csproj", "{572A6546-DA16-44FB-A7A5-2C358DE54FB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabJson02", "LabJson02\LabJson02.csproj", "{D8F1A5CE-066D-493A-8425-21A6E60D071E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop JSON", "Workshop JSON", "{C68D74D1-2EB9-4114-83E4-3BCC32D9B45D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop XML", "Workshop XML", "{E5D4BC78-027F-4042-A040-4F13E21A8728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoXML1", "DemoXML1\DemoXML1.csproj", "{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xml Files", "Xml Files", "{2D06CF20-1560-4D64-9D21-1D9B6374A6BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "schemes", "schemes", "{92997B06-FB4E-4B56-8484-1E4C430CA04C}"
+	ProjectSection(SolutionItems) = preProject
+		CustomerOrder.xml = CustomerOrder.xml
+		CustomerOrder.xsd = CustomerOrder.xsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{F0DDD0E5-0AF0-4F5A-B4F9-0AD23D455E98}"
+	ProjectSection(SolutionItems) = preProject
+		Catalog.xml = Catalog.xml
+		CustomerOrder.xml = CustomerOrder.xml
+		PurchaseOrder.xml = PurchaseOrder.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collection", "Collection", "{5B63F129-8CBF-49E6-8F2E-8BEF9214B2A3}"
+	ProjectSection(SolutionItems) = preProject
+		MultiplePurchaseOrder.xml = MultiplePurchaseOrder.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "numerics", "numerics", "{06E3B276-A829-4226-BF7B-C0BC69BA0AE3}"
+	ProjectSection(SolutionItems) = preProject
+		Numerics.xml = Numerics.xml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +58,24 @@ Global
 		{D8F1A5CE-066D-493A-8425-21A6E60D071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F1A5CE-066D-493A-8425-21A6E60D071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F1A5CE-066D-493A-8425-21A6E60D071E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{064C1F43-B91D-41F7-803C-1328C1A6C45A} = {C68D74D1-2EB9-4114-83E4-3BCC32D9B45D}
+		{572A6546-DA16-44FB-A7A5-2C358DE54FB8} = {C68D74D1-2EB9-4114-83E4-3BCC32D9B45D}
+		{D8F1A5CE-066D-493A-8425-21A6E60D071E} = {C68D74D1-2EB9-4114-83E4-3BCC32D9B45D}
+		{7CDA2CE4-B4CA-4A9A-8F20-6A5674DE21CF} = {E5D4BC78-027F-4042-A040-4F13E21A8728}
+		{2D06CF20-1560-4D64-9D21-1D9B6374A6BC} = {E5D4BC78-027F-4042-A040-4F13E21A8728}
+		{92997B06-FB4E-4B56-8484-1E4C430CA04C} = {2D06CF20-1560-4D64-9D21-1D9B6374A6BC}
+		{F0DDD0E5-0AF0-4F5A-B4F9-0AD23D455E98} = {2D06CF20-1560-4D64-9D21-1D9B6374A6BC}
+		{5B63F129-8CBF-49E6-8F2E-8BEF9214B2A3} = {2D06CF20-1560-4D64-9D21-1D9B6374A6BC}
+		{06E3B276-A829-4226-BF7B-C0BC69BA0AE3} = {2D06CF20-1560-4D64-9D21-1D9B6374A6BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0562858-F1FC-4696-B152-BF715A3E1488}
