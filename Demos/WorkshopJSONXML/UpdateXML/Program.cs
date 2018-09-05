@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Xml.Linq;
 
 namespace UpdateXML
@@ -16,14 +17,16 @@ namespace UpdateXML
 
             foreach (XElement book in books)
             {
+
+
                 Console.Write($"\t{book.Attribute("id").Value}");
                 Console.WriteLine("---");
                 Console.Write($"Title: {book.Element("Title").Value} Author: { book.Element("Author").Value}");
-
-                book.Element("Title").Value = "HACK"; 
+                //book.Remove(); 
+                book.Element("Title").Value = "HACK!!";
             }
 
-            doc.Save("CatalogHACK!!!");
+            doc.Save("CatalogHACK!!!.xml");
 
 
             Console.ReadKey();

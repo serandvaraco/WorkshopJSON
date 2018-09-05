@@ -1,0 +1,12 @@
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\CustomerOrder.xml
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\XMLSolutionLab.deps.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\XMLSolutionLab.runtimeconfig.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\XMLSolutionLab.runtimeconfig.dev.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\XMLSolutionLab.dll
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\bin\Debug\netcoreapp2.1\XMLSolutionLab.pdb
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.csprojAssemblyReference.cache
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.csproj.CoreCompileInputs.cache
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.AssemblyInfoInputs.cache
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.AssemblyInfo.cs
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.dll
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLSolutionLab\obj\Debug\netcoreapp2.1\XMLSolutionLab.pdb
