@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 
 namespace UpdateXML
 {
+    class Book
+    {
+        public string Author { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -29,8 +34,16 @@ namespace UpdateXML
             doc.Save("CatalogHACK!!!.xml");
 
 
+            ///insert XML 
+
+            System.Xml.Serialization.XmlSerializer writer =
+            new System.Xml.Serialization.XmlSerializer(typeof(Book));
+
+            writer.Serialize(new StreamWriter("Path"), new Book { Author = "new" }); 
+
             Console.ReadKey();
 
+            
 
         }
     }
