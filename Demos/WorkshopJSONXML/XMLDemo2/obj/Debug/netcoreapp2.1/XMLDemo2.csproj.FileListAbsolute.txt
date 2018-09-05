@@ -1,0 +1,11 @@
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\PurchaseOrder.xml
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\XMLDemo2.deps.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\XMLDemo2.runtimeconfig.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\XMLDemo2.runtimeconfig.dev.json
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\XMLDemo2.dll
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\bin\Debug\netcoreapp2.1\XMLDemo2.pdb
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\obj\Debug\netcoreapp2.1\XMLDemo2.csproj.CoreCompileInputs.cache
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\obj\Debug\netcoreapp2.1\XMLDemo2.AssemblyInfoInputs.cache
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\obj\Debug\netcoreapp2.1\XMLDemo2.AssemblyInfo.cs
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\obj\Debug\netcoreapp2.1\XMLDemo2.dll
+C:\git\workshopJson\Demos\WorkshopJSONXML\XMLDemo2\obj\Debug\netcoreapp2.1\XMLDemo2.pdb
